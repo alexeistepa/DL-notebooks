@@ -6,7 +6,7 @@
 
 **Autoencoders: From linear to non-linear.** Visualising the principal components of MNIST. Training deep auto-encoders and comparing to PCA. Visualising paths between different images in the learned manifold. Creating a simple generative model. 
 
-**Probabilistic neural networks and PAC-Bayes bounds.** Training probabilistic neural networks and computing PAC-Bayes generalisation error bounds. 
+**Probabilistic neural networks and PAC-Bayes bounds.** Learning to train probabilistic neural networks and compute PAC-Bayes generalisation error bounds with a simple example. 
 
 **Visualising CNNs.** Exploring convolutions for blur edge detections. Training a CNN for MNIST and visualising the output of hidden neurons.
 
