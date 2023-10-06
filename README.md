@@ -1,6 +1,6 @@
 # DL-notebooks
 
-**English to French translation system with transformers II: Training.** An English-French translation model constructed using an Encoder-Decoder Transformer stack and pre-trained fastText word Embeddings, is trained.
+**English to French translation system with transformers II: Training.** An English-French translation model is constructed using an Encoder-Decoder Transformer stack and pre-trained fastText word Embeddings. The model is trained - approx. 3 hours on Kaggle T4 x2 GPUs.
 
 **English to French translation system with transformers I: Data cleaning.** A raw English-French dataset is cleaned in preparation for training. Statistics such as word frequency are explored in order to support the later construction of the model. 
 
@@ -8,7 +8,7 @@
 
 **Probabilistic neural networks and PAC-Bayes bounds.** Learning to train probabilistic neural networks and compute PAC-Bayes generalisation error bounds with a simple example. 
 
-**Visualising CNNs.** Exploring convolutions for blur edge detections. Training a CNN for MNIST and visualising the output of hidden neurons.
+**Visualising CNNs.** Exploring convolutions for blur and edge detections. Training a CNN for MNIST and visualising the outputs of hidden neurons.
 
 **Imbalanced data and ROC curves.** Exploring ROC curves and the AUC score for imbalanced datasets.
 
